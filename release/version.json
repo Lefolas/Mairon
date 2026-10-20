@@ -1,10 +1,10 @@
 {
   "build": "release",
-  "sequence": 101,
-  "version": "1.0.1",
+  "sequence": 102,
+  "version": "1.0.2",
   "url": "https://raw.githubusercontent.com/Lefolas/Mairon/main/release/Sauron.dll",
-  "sha256": "c08f0ad31228eb98ae55e3c72d9129dede67c8124593869ae6d535628143c91d",
-  "size": 1526784,
+  "sha256": "812e476bd0c90d249d46ed20924e9bed1f754c55bdfa4fc1777dc00a01bad28c",
+  "size": 2612736,
   "notes": "",
-  "signature": "fJzuE2NMwHaSQnQnlqXU1cmA1xAAkxwFbVcISLF/NuQZ/CiF0qTWZakhbMncgl7xyrji0X0K36v9ABNGyCuisQ=="
+  "signature": "fYQ3Ke+E59dF5lNfGNo2PXP7Zw8cxgxonfbNhWJYWHV2yog6zikEMo8Cf6Ai5hgsuu7Zt8RNePvaCcaAMj/Xlw=="
 }
